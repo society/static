@@ -1,0 +1,2 @@
+# static
+Shared static assets
